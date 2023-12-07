@@ -13,7 +13,7 @@ def get_network_stats(interface):
 def bytes_to_mbits(bytes):
     return round(bytes * 0.000008, 2)
 
-def start_traffic_moniotring(interface, interval, output_file, output_format_func=bytes_to_mbits, max_timestaps=200):
+def start_traffic_moniotring(interface, interval, output_file, output_format_func=bytes_to_mbits, max_timestaps=1000000):
     """
     Monitors network traffic on the specified interface and writes the statistics to a CSV file.
     """

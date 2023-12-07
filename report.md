@@ -334,7 +334,6 @@ Having examined the history of innovations in the 802.11 standard, I have identi
 For me personally, the nicest improvement would be the simultaneous use of 5G and 2.4G channels. After all, my router has both channels active at once, so why not use them both if I'm the only one connected to the network?
 
 
-
 # Заключение 
 Этот эксперимент стал для меня очень увлекательным. Так как я работал в новой для себя сфере, то практически каждую минуту находилось что-то новое, о чём я сразу лез читать в итнернете. Было проведено много тестов (Большинство из которых не вошли в отчёт т.к были скорее "исследованием методом тыка"), которые дали лучшее понимание работы сети. Много времени я провёл думая над тем, какие улучшения стандарта Wi-Fi могли бы увеличить скорость передачи. Идея с одновременным использованием 5G и 2.4G пришла мне, когда я забыл переключить ноутбук с 2.4G на 5G и результаты тестов заметно изменились. 
 
